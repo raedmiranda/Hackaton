@@ -91,6 +91,7 @@
     <Content Include="Content\css\landing-page.css" />
     <Content Include="Content\img\banner-bg.jpg" />
     <Content Include="Content\img\dog.png" />
+    <Content Include="Content\img\hackathon.jpg" />
     <Content Include="Content\img\intro-bg.jpg" />
     <Content Include="Content\img\ipad.png" />
     <Content Include="Content\img\phones.png" />
