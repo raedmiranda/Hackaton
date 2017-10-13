@@ -105,9 +105,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\css\landing-page.css" />
+    <Content Include="Content\img\519915677.jpg" />
     <Content Include="Content\img\banner-bg.jpg" />
     <Content Include="Content\img\dog.png" />
+    <Content Include="Content\img\empresa.jpg" />
     <Content Include="Content\img\hackathon.jpg" />
+    <Content Include="Content\img\hackaton-info.jpg" />
+    <Content Include="Content\img\impacto-ambiental-6.jpg" />
     <Content Include="Content\img\intro-bg.jpg" />
     <Content Include="Content\img\ipad.png" />
     <Content Include="Content\img\phones.png" />
