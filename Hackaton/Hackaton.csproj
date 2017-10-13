@@ -107,8 +107,11 @@
     <Content Include="Content\css\landing-page.css" />
     <Content Include="Content\img\519915677.jpg" />
     <Content Include="Content\img\banner-bg.jpg" />
+    <Content Include="Content\img\criteria-detail.jpeg" />
+    <Content Include="Content\img\criteria-gnral.jpeg" />
     <Content Include="Content\img\dog.png" />
     <Content Include="Content\img\empresa.jpg" />
+    <Content Include="Content\img\global-goals-logo-share.png" />
     <Content Include="Content\img\hackathon.jpg" />
     <Content Include="Content\img\hackaton-info.jpg" />
     <Content Include="Content\img\impacto-ambiental-6.jpg" />
